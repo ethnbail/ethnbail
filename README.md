@@ -14,6 +14,9 @@
 - [Linux Security Hardening]()
 - [Library C++]()
 
+<h2> Certifications:</h2>
+- Security+
+- Google Cybersecurity Professional
 
 <h2> 🤳 Connect with me:</h2>
 
