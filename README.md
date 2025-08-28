@@ -7,12 +7,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Honeypot Deployment & Analysis]()
-- [Splunk SOC Dashboard]()
-- [Incident Response Automation with Cortex]()
-- [Google Chronicle Threat Detection Lab]()
-- [Linux Security Hardening]()
-- [Library C++]()
+- [Honeypot Deployment & Analysis](https://github.com/ethnbail/Honeypot)
+- [Splunk SOC Dashboard]([)](https://github.com/ethnbail/Splunk-Enterprise-Project)
+- [Incident Response Automation with Cortex](https://github.com/ethnbail/Incident-Response-Automation-with-Cortex)
+- [Google Chronicle Threat Detection Lab](https://github.com/ethnbail/Google-Threat-Detection)
+- [Linux Security Hardening](https://github.com/ethnbail/Linux-Security-Hardening)
+- [Library C++](https://github.com/ethnbail/library)
 
 <h2> Certifications:</h2>
 - Security+
